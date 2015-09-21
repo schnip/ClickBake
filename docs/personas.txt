@@ -1,4 +1,4 @@
-Person 1 : Grandma May
+Persona 1 : Grandma May
 Demographics:
 
 -81 years old
@@ -16,7 +16,7 @@ Goals/tasks:
 
 Environment:
 
--2003 Dell Inspron, Windows XP, 1 GB ram
+-2003 Dell Inspron, Windows XP, 1 GB ram, DSL internet
 -Not comfortable with said computer
 -Google chrome, but she doesn't know that that is what she is using
 -Has all the kitchen equipment that she could possibly need
@@ -24,3 +24,28 @@ Environment:
 Quote:
 "Hey Sonny, want some cookies?"
 "Why is the computer not working?"
+
+===============================================================
+Persona 2 : Alex Lane
+Demographics:
+
+-Lazy college student
+-Junior at UC Berkeley
+-Liberal arts major
+-Inexperienced shopper
+-Decent common sense and cooking skills
+
+Goals/tasks:
+
+-Get food without interacting with human beings
+-Study instead of Shopping
+-Try new crazy food with friends
+
+Environment:
+
+-2013 Macbook Air, 8GB ram, waccom tablet
+-Google chrome, fast internet
+-Has a kitchen, but only has basic cooking tools
+
+Quote:
+"Hey Gurrrl, what should we eat after class before this crazy party 2night?"
