@@ -1,1 +1,18 @@
 Person 1 : Grandma May
+Demographics:
+
+-81 years old
+-Married for 57 years
+-Children and Grandchildren
+-Neither husband nor May can drive due to poor vision
+-Enjoys cooking
+
+Goals/tasks:
+
+-Cook new recipes she found on the interwebs with her children
+-Get ingredients for food for her and her husband every day
+-Use computer as little as possible
+-Wants to cook healthy food with fresh ingredients
+
+Environment:
+Quote:
