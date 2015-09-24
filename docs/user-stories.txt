@@ -1,0 +1,16 @@
+Title: Click and Bake
+Category: Epic
+As a fellow lazy person, I want to use minimal effort to aquire the ingredients to bake something
+-Order is confirmed and correct
+-Order is correctly shipped
+-Process requires very few clicks
+
+Title: No Drive to Bake
+Category: Epic
+As an elderly person, I want to easily get food without having to drive
+-Order is confirmed and correct
+-Order is correctly shipped
+-Process requires very few clicks
+
+Title: API Reasearch
+Category: 
