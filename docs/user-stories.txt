@@ -43,3 +43,6 @@ Category: Feature
 As a user, I want ClickBake to store my favorite brands so that I do not have to enter it every single time that I want food
 -User can enter favorite brands
 -Brand information is stored
+
+Title: Relational Database
+Category: Technical Feature
