@@ -12,5 +12,22 @@ As an elderly person, I want to easily get food without having to drive
 -Order is correctly shipped
 -Process requires very few clicks
 
-Title: API Reasearch
-Category: 
+Title: API Research
+Category: Spike
+As a developer, I want to know how Amazon APIs work and what our options are so that we can make use of them
+-Find APIs
+-See how they work
+-Choose a suitable option
+
+Title: Website Research
+Category: Spike
+As a developer, I want to know how website hold their ingredients list in their webpages and how to parse it so that we can aquire information
+-Look at several websites' code
+-See how recipes are stored on there
+-Determine if we can parse that information directly
+
+Title: Extention button
+Category: Feature
+As a user, I want to press a chrome extension button and a new tab will open with appropriate information regaurding buying the recipse so that I can say "Yes, buy me food"
+-New tab opens when user presses chrome extension
+-New tab knows the information from the recipe page that was open
