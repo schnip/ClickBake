@@ -46,3 +46,12 @@ As a user, I want ClickBake to store my favorite brands so that I do not have to
 
 Title: Relational Database
 Category: Technical Feature
+As a webmaster, I want the information to be store in a relational database so that is safe, secure, and easy to deal with
+-Information is stored in relational database
+-Information can be used appropriately
+
+Title: Buttons
+Category: Technical Feature
+As a developer, I want to be able to see the buttons on the extension.
+- I can see buttons
+- Users can also see buttons
