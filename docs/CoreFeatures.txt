@@ -1,0 +1,14 @@
+Feature 1:  Is an extension. [DM]
+
+Feature 2:  Giving the user multiple options at order time.
+
+Feature 3:  Small locations on order page for advertisement.
+
+Feature 4:  Reads the amazon fresh search page for ingredients. [JL]
+
+Feature 5:  Stores Amazon account information securely. [DS]
+
+Feature 6:  Stores preferences and receipts securely. [NP]
+
+Feature 7:  Store users' previous orders in a library of sorts so they can access them again.
+
